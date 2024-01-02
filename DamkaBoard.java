@@ -1,6 +1,6 @@
 public class DamkaBoard {
     public static void main(String[] args) {
-        \\ Size of the board 
+        // Size of the board 
         int x = Integer.parseInt(args[0]);
 
         for (int i = 0; i < x; i++) {
