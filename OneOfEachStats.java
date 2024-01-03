@@ -52,7 +52,7 @@ public class OneOfEachStats {
             modeString = "4 or more";
         } // identify the "mode"
 
-        System.out.println("Average: " + avg + " children per family.");
+        System.out.println("Average: " + avg + " children to get at least one of each gender.");
         System.out.println("Number of families with 2 children: " + twoChildren);
         System.out.println("Number of families with 3 children: " + threeChildren);
         System.out.println("Number of families with 4 or more children: " + fourplusChildren);
